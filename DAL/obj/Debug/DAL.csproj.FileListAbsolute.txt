@@ -1,0 +1,8 @@
+F:\gay\Nueva carpeta\Pulsaciones1231\DAL\bin\Debug\DAL.dll
+F:\gay\Nueva carpeta\Pulsaciones1231\DAL\bin\Debug\DAL.pdb
+F:\gay\Nueva carpeta\Pulsaciones1231\DAL\bin\Debug\Entity.dll
+F:\gay\Nueva carpeta\Pulsaciones1231\DAL\bin\Debug\Entity.pdb
+F:\gay\Nueva carpeta\Pulsaciones1231\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\gay\Nueva carpeta\Pulsaciones1231\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\gay\Nueva carpeta\Pulsaciones1231\DAL\obj\Debug\DAL.dll
+F:\gay\Nueva carpeta\Pulsaciones1231\DAL\obj\Debug\DAL.pdb

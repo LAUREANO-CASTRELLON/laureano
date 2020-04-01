@@ -1,0 +1,7 @@
+C:\Users\familia Gamboa\source\repos\Pulsaciones1231\Pulsaciones1231\bin\Debug\Pulsaciones1231.exe.config
+C:\Users\familia Gamboa\source\repos\Pulsaciones1231\Pulsaciones1231\bin\Debug\Pulsaciones1231.exe
+C:\Users\familia Gamboa\source\repos\Pulsaciones1231\Pulsaciones1231\bin\Debug\Pulsaciones1231.pdb
+C:\Users\familia Gamboa\source\repos\Pulsaciones1231\Pulsaciones1231\obj\Debug\Pulsaciones1231.csprojAssemblyReference.cache
+C:\Users\familia Gamboa\source\repos\Pulsaciones1231\Pulsaciones1231\obj\Debug\Pulsaciones1231.csproj.CoreCompileInputs.cache
+C:\Users\familia Gamboa\source\repos\Pulsaciones1231\Pulsaciones1231\obj\Debug\Pulsaciones1231.exe
+C:\Users\familia Gamboa\source\repos\Pulsaciones1231\Pulsaciones1231\obj\Debug\Pulsaciones1231.pdb

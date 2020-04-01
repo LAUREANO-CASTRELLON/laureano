@@ -1,0 +1,13 @@
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\bin\Debug\Pulsaciones1231.pdb
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\obj\Debug\Pulsacion.csprojAssemblyReference.cache
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\obj\Debug\Pulsaciones1231.pdb
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\bin\Debug\BLL.dll
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\bin\Debug\Entity.dll
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\bin\Debug\BLL.pdb
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\bin\Debug\Entity.pdb
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\obj\Debug\Pulsacion.csproj.CopyComplete
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\bin\Debug\Pulsaciones1231.exe.config
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\bin\Debug\Pulsaciones1231.exe
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\obj\Debug\Pulsaciones1231.exe
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\bin\Debug\DAL.dll
+F:\gay\Nueva carpeta\Pulsaciones1231\Pulsaciones1231\bin\Debug\DAL.pdb

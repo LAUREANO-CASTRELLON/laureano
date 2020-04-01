@@ -1,0 +1,5 @@
+F:\gay\Nueva carpeta\Pulsaciones1231\Entity\bin\Debug\Entity.dll
+F:\gay\Nueva carpeta\Pulsaciones1231\Entity\bin\Debug\Entity.pdb
+F:\gay\Nueva carpeta\Pulsaciones1231\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+F:\gay\Nueva carpeta\Pulsaciones1231\Entity\obj\Debug\Entity.dll
+F:\gay\Nueva carpeta\Pulsaciones1231\Entity\obj\Debug\Entity.pdb
